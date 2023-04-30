@@ -8,6 +8,9 @@
 - [Christmas-Tree](#christmas-tree)
 - [Color-Mixing-Lamp](#color-mixing-lamp)
 - [Mood-Cue](#mood-cue)
+- [Light-Theremin](#light-theremin)
+- [Keyboard-Instrument](#keyboard-instrument)
+- [Digital-Hourglass](#digital-hourglass)
 
 ## Love-O-Meter
 * Pin 2 (INPUT pin) connects to Push button and pull-down resistor
@@ -35,7 +38,7 @@
 
 [![Mood-Cue](http://img.youtube.com/vi/D0cC6P7d5bw/0.jpg)](https://youtu.be/D0cC6P7d5bw 'Mood-Cue')
 
-## Light Theremin
+## Light-Theremin
 * This project utilizes piezo and phototransistor
 
 [![Light-Theremin](http://img.youtube.com/vi/I6U1TyBiY18/0.jpg)](https://youtu.be/I6U1TyBiY18 'Light Theremin')
