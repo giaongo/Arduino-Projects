@@ -83,7 +83,7 @@
 ## Control-Motor-Speed
 * This project utilizes motor, 9V battery, mopset, diode and potentiometer.
 
-[![Control-Motor-Speed](http://img.youtube.com/vi/YjVdrrqOvtw/0.jpg)](https://youtu.be/YjVdrrqOvtw 'Control-Motor-Speed')
+[![Control-Motor-Speed](http://img.youtube.com/vi/Yr-NZ0AtJU4/0.jpg)](https://youtu.be/Yr-NZ0AtJU4 'Control-Motor-Speed')
 
 
 
