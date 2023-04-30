@@ -11,6 +11,11 @@
 - [Light-Theremin](#light-theremin)
 - [Keyboard-Instrument](#keyboard-instrument)
 - [Digital-Hourglass](#digital-hourglass)
+- [Nightclub-DJ](#nightclub-dj)
+- [Wakeup-Alarm](#wakeup-alarm)
+- [Control-Light-Intensity](#control-light-intensity)
+- [Motorized-Pin-Wheel](#motorized-pin-wheel)
+- [Control-Motor-Speed](#control-motor-speed)
 
 ## Love-O-Meter
 * Pin 2 (INPUT pin) connects to Push button and pull-down resistor
