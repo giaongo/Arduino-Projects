@@ -39,17 +39,48 @@
 [![Mood-Cue](http://img.youtube.com/vi/D0cC6P7d5bw/0.jpg)](https://youtu.be/D0cC6P7d5bw 'Mood-Cue')
 
 ## Light-Theremin
-* This project utilizes piezo and phototransistor
+* This project utilizes piezo and phototransistor.
 
 [![Light-Theremin](http://img.youtube.com/vi/I6U1TyBiY18/0.jpg)](https://youtu.be/I6U1TyBiY18 'Light Theremin')
 
 ## Keyboard-instrument
-* This project utilizes piezo and phototransistor
+* This project utilizes piezo and phototransistor.
 
 [![Keyboard-Instrument](http://img.youtube.com/vi/3JECP2rrCGY/0.jpg)](https://youtu.be/3JECP2rrCGY 'Keyboard-Instrument')
 
 ## Digital-Hourglass
-* This project utilizes tilt sensor
+* This project utilizes tilt sensor.
 
 [![Digital-Hourglass](http://img.youtube.com/vi/Vu_k0DpWMxo/0.jpg)](https://youtu.be/Vu_k0DpWMxo 'Digital-Hourglass')
+
+## Nightclub-DJ
+* This project utilizes piezo and potentiometer.
+
+[![Nightclub-DJ](http://img.youtube.com/vi/8yw5XdTogcU/0.jpg)](https://youtu.be/8yw5XdTogcU 'Nightclub-DJ')
+
+## Wakeup-Alarm
+* This project utilizes piezo.
+
+[![Wakeup-Alarm](http://img.youtube.com/vi/ZCS8N0DXIDw/0.jpg)](https://youtu.be/ZCS8N0DXIDw 'Wakeup-Alarm')
+
+## Control-Light-Intensity
+* This project utilizes potentiometer and cathode RGB LED.
+
+[![Control-Light-Intensity](http://img.youtube.com/vi/dRuLZGJ9Stc/0.jpg)](https://youtu.be/dRuLZGJ9Stc 'Control-Light-Intensity')
+
+
+## Motorized-Pin-Wheel
+* This project utilizes motor, 9V battery, mopset and diode.
+
+[![Motorized-Pin-Wheel](http://img.youtube.com/vi/2Uvtj8PPV6Y/0.jpg)](https://youtu.be/2Uvtj8PPV6Y 'Motorized-Pin-Wheel')
+
+
+## Control-Motor-Speed
+* This project utilizes motor, 9V battery, mopset, diode and potentiometer.
+
+[![Control-Motor-Speed](http://img.youtube.com/vi/RlzwFbcrFaQ/0.jpg)](https://youtu.be/RlzwFbcrFaQ 'Control-Motor-Speed')
+
+
+
+
 
