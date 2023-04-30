@@ -66,7 +66,7 @@
 ## Wakeup-Alarm
 * This project utilizes piezo.
 
-[![Wakeup-Alarm](http://img.youtube.com/vi/ZCS8N0DXIDw/0.jpg)](https://youtu.be/ZCS8N0DXIDw 'Wakeup-Alarm')
+[![Wakeup-Alarm](http://img.youtube.com/vi/0NXR6kVClgo/0.jpg)](https://youtu.be/0NXR6kVClgo 'Wakeup-Alarm')
 
 ## Control-Light-Intensity
 * This project utilizes potentiometer and cathode RGB LED.
@@ -77,13 +77,13 @@
 ## Motorized-Pin-Wheel
 * This project utilizes motor, 9V battery, mopset and diode.
 
-[![Motorized-Pin-Wheel](http://img.youtube.com/vi/2Uvtj8PPV6Y/0.jpg)](https://youtu.be/2Uvtj8PPV6Y 'Motorized-Pin-Wheel')
+[![Motorized-Pin-Wheel](http://img.youtube.com/vi/YjVdrrqOvtw/0.jpg)](https://youtu.be/YjVdrrqOvtw 'Motorized-Pin-Wheel')
 
 
 ## Control-Motor-Speed
 * This project utilizes motor, 9V battery, mopset, diode and potentiometer.
 
-[![Control-Motor-Speed](http://img.youtube.com/vi/RlzwFbcrFaQ/0.jpg)](https://youtu.be/RlzwFbcrFaQ 'Control-Motor-Speed')
+[![Control-Motor-Speed](http://img.youtube.com/vi/YjVdrrqOvtw/0.jpg)](https://youtu.be/YjVdrrqOvtw 'Control-Motor-Speed')
 
 
 
