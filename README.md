@@ -61,7 +61,7 @@
 ## Nightclub-DJ
 * This project utilizes piezo and potentiometer.
 
-[![Nightclub-DJ](http://img.youtube.com/vi/8yw5XdTogcU/0.jpg)](https://youtu.be/8yw5XdTogcU 'Nightclub-DJ')
+[![Nightclub-DJ](http://img.youtube.com/vi/-LbwOZ4DUT8/0.jpg)](https://youtu.be/-LbwOZ4DUT8 'Nightclub-DJ')
 
 ## Wakeup-Alarm
 * This project utilizes piezo.
