@@ -8,6 +8,14 @@
 - [Christmas-Tree](#christmas-tree)
 - [Color-Mixing-Lamp](#color-mixing-lamp)
 - [Mood-Cue](#mood-cue)
+- [Light-Theremin](#light-theremin)
+- [Keyboard-Instrument](#keyboard-instrument)
+- [Digital-Hourglass](#digital-hourglass)
+- [Nightclub-DJ](#nightclub-dj)
+- [Wakeup-Alarm](#wakeup-alarm)
+- [Control-Light-Intensity](#control-light-intensity)
+- [Motorized-Pin-Wheel](#motorized-pin-wheel)
+- [Control-Motor-Speed](#control-motor-speed)
 
 ## Love-O-Meter
 * Pin 2 (INPUT pin) connects to Push button and pull-down resistor
@@ -35,18 +43,49 @@
 
 [![Mood-Cue](http://img.youtube.com/vi/D0cC6P7d5bw/0.jpg)](https://youtu.be/D0cC6P7d5bw 'Mood-Cue')
 
-## Light Theremin
-* This project utilizes piezo and phototransistor
+## Light-Theremin
+* This project utilizes piezo and phototransistor.
 
 [![Light-Theremin](http://img.youtube.com/vi/I6U1TyBiY18/0.jpg)](https://youtu.be/I6U1TyBiY18 'Light Theremin')
 
 ## Keyboard-instrument
-* This project utilizes piezo and phototransistor
+* This project utilizes piezo and phototransistor.
 
 [![Keyboard-Instrument](http://img.youtube.com/vi/3JECP2rrCGY/0.jpg)](https://youtu.be/3JECP2rrCGY 'Keyboard-Instrument')
 
 ## Digital-Hourglass
-* This project utilizes tilt sensor
+* This project utilizes tilt sensor.
 
 [![Digital-Hourglass](http://img.youtube.com/vi/Vu_k0DpWMxo/0.jpg)](https://youtu.be/Vu_k0DpWMxo 'Digital-Hourglass')
+
+## Nightclub-DJ
+* This project utilizes piezo and potentiometer.
+
+[![Nightclub-DJ](http://img.youtube.com/vi/-LbwOZ4DUT8/0.jpg)](https://youtu.be/-LbwOZ4DUT8 'Nightclub-DJ')
+
+## Wakeup-Alarm
+* This project utilizes piezo.
+
+[![Wakeup-Alarm](http://img.youtube.com/vi/0NXR6kVClgo/0.jpg)](https://youtu.be/0NXR6kVClgo 'Wakeup-Alarm')
+
+## Control-Light-Intensity
+* This project utilizes potentiometer and cathode RGB LED.
+
+[![Control-Light-Intensity](http://img.youtube.com/vi/dRuLZGJ9Stc/0.jpg)](https://youtu.be/dRuLZGJ9Stc 'Control-Light-Intensity')
+
+
+## Motorized-Pin-Wheel
+* This project utilizes motor, 9V battery, mopset and diode.
+
+[![Motorized-Pin-Wheel](http://img.youtube.com/vi/YjVdrrqOvtw/0.jpg)](https://youtu.be/YjVdrrqOvtw 'Motorized-Pin-Wheel')
+
+
+## Control-Motor-Speed
+* This project utilizes motor, 9V battery, mopset, diode and potentiometer.
+
+[![Control-Motor-Speed](http://img.youtube.com/vi/Yr-NZ0AtJU4/0.jpg)](https://youtu.be/Yr-NZ0AtJU4 'Control-Motor-Speed')
+
+
+
+
 
