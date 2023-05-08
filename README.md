@@ -16,6 +16,10 @@
 - [Control-Light-Intensity](#control-light-intensity)
 - [Motorized-Pin-Wheel](#motorized-pin-wheel)
 - [Control-Motor-Speed](#control-motor-speed)
+- [Zoetrope](#zoetrope)
+- [Cloud-LED-Control](#cloud-led-control)
+- [LED-Control-By-Potentiometer](#led-control-by-potentiometer)
+- [Doorbell-Cloud-Control](#doorbell-cloud-control)
 
 ## Love-O-Meter
 * Pin 2 (INPUT pin) connects to Push button and pull-down resistor
@@ -85,7 +89,26 @@
 
 [![Control-Motor-Speed](http://img.youtube.com/vi/Yr-NZ0AtJU4/0.jpg)](https://youtu.be/Yr-NZ0AtJU4 'Control-Motor-Speed')
 
+## Zoetrope
+* This project utilizes motor, 9V battery, H-bridge and potentiometer.
+
+[![Zoetrope](http://img.youtube.com/vi/BZXE2wzFJSE/0.jpg)](https://youtu.be/BZXE2wzFJSE 'Zoetrope')
 
 
+## Cloud-LED-Control
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board and LED.
+
+[![Cloud LED control](http://img.youtube.com/vi/qdYfZaa7eko/0.jpg)](https://youtu.be/qdYfZaa7eko 'Cloud LED control')
+
+
+## LED-Control-By-Potentiometer
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board, LED and potentiometer.
+
+[![LED Control Potentiometer](http://img.youtube.com/vi/VfFkBwqyz5E/0.jpg)](https://youtu.be/VfFkBwqyz5E 'LED Control Potentiometer')
+
+## Doorbell-Cloud-Control
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board, LED, Push button and Piezo.
+
+[![Doorbell-Cloud-Control](http://img.youtube.com/vi/ZbZb7kTLQcg/0.jpg)](https://youtu.be/ZbZb7kTLQcg 'Doorbell-Cloud-Control')
 
 
