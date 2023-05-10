@@ -20,6 +20,8 @@
 - [Cloud-LED-Control](#cloud-led-control)
 - [LED-Control-By-Potentiometer](#led-control-by-potentiometer)
 - [Doorbell-Cloud-Control](#doorbell-cloud-control)
+- [Motion-Alarm](#motion-alarm)
+- [Temperature-Tracking](#temperature-tracking)
 
 ## Love-O-Meter
 * Pin 2 (INPUT pin) connects to Push button and pull-down resistor
@@ -111,4 +113,12 @@
 
 [![Doorbell-Cloud-Control](http://img.youtube.com/vi/ZbZb7kTLQcg/0.jpg)](https://youtu.be/ZbZb7kTLQcg 'Doorbell-Cloud-Control')
 
+## Motion-Alarm
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board, LED and PIR Motion sensor. In addition to that, Webhooks and IFTTT platform are implemented to activate the notifcation based on detected motion. 
 
+[![Motion-Alarm](http://img.youtube.com/vi/P9wz7CK5zxY/0.jpg)](https://youtu.be/P9wz7CK5zxY 'Motion-Alarm')
+
+## Temperature-Tracking
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board, LED and TMP39.
+
+[![Temperature-Tracking](http://img.youtube.com/vi/jT5otcEDaro/0.jpg)](https://youtu.be/jT5otcEDaro 'Temperature-Tracking')
