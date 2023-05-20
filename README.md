@@ -22,6 +22,8 @@
 - [Doorbell-Cloud-Control](#doorbell-cloud-control)
 - [Motion-Alarm](#motion-alarm)
 - [Temperature-Tracking](#temperature-tracking)
+- [Frontdoor-Sound-Alarm](#frontdoor-sound-alarm)
+- [Temperature-Humidity-Sensing](#temperature-humidity-sensing)
 
 ## Love-O-Meter
 * Pin 2 (INPUT pin) connects to Push button and pull-down resistor
@@ -122,3 +124,13 @@
 * This project utilizes Arduino IoT cloud, Arduino MKR 1010 board, LED and TMP39.
 
 [![Temperature-Tracking](http://img.youtube.com/vi/jT5otcEDaro/0.jpg)](https://youtu.be/jT5otcEDaro 'Temperature-Tracking')
+
+## Frontdoor-Sound-Alarm
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board, PIR motion sensor and Piezo. In addition to that, Webhooks and IFTTT platform are implemented to activate the notifcation based on detected motion. 
+
+[![Frontdoor-sound-alarm](http://img.youtube.com/vi/T7lRUbkllew/0.jpg)](https://youtu.be/T7lRUbkllew 'Frontdoor-sound-alarm')
+
+## Temperature-Humidity-Sensing
+* This project utilizes Arduino IoT cloud, Arduino MKR 1010 board and DHT22.
+
+[![Temperature-Humidity-Sensing](http://img.youtube.com/vi/-JVBDqSJIA8/0.jpg)](https://youtu.be/-JVBDqSJIA8 'Temperature-Humidity-Sensing')
